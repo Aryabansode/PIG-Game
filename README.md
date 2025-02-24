@@ -1,2 +1,3 @@
 # PIG-Game
 The Pig Game is a simple dice game of chance and strategy. The goal is to be the first player to reach a target score of 100 points.
+The Pig Game is a two-player turn-based dice game where players compete to reach a target score first. On each turn, a player rolls a six-sided die. If they roll a 1, they lose all points accumulated in that turn, and their turn ends. If they roll any other number, they can choose to keep rolling to accumulate more points or hold to add their current turn's points to their total score and pass the turn to the opponent. The first player to reach the target score (e.g., 100 points) wins the game. The game involves both luck and strategy, as players must decide when to take risks and when to play it safe.
